@@ -3,3 +3,4 @@
 - Guides: Dr. Rajiv Ratn Shah, Mr. Nabeel Koya
 - Problem Statement: Detect attacks on ASV Systems using Spoofed Speech in Logical Access (Text-To-Speech Models, Voice Conversion) and Physical Access (Replayed Speech) scenarios.
 - This repository serves as a comprehensive record of our coding journey throughout the project. It includes all the scripts, algorithms, and methodologies we developed and employed to achieve our objective.
+- For more information please check out [ASVSpoof](https://www.asvspoof.org).
